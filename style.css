@@ -35,3 +35,6 @@ label {
 	font-family: 'Helvetica';
 	background-color: #a3c2ff;
 }
+.info p a {
+	background-color: yellow;
+}
